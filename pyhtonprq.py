@@ -49,9 +49,15 @@
 
 # solve 1st question  basic pyhton practice .
 # Write a program to print your name, age, and city.
-name = input("enter your name:")
-age = input("enter your age:")
-city = input("enter your city:")
-print("your name is ",name) 
-print( "your age is", age)
-print( "your city is", city)
+# name = input("enter your name:")
+# age = input("enter your age:")
+# city = input("enter your city:")
+# print("your name is ",name) 
+# print( "your age is", age)
+# print( "your city is", city)
+
+# Take two numbers from the user and print their sum.
+a = int(input("enter a  first number:"))
+b = int(input("enter a second number:"))
+sum = a+b
+print("your sum is" , sum )
