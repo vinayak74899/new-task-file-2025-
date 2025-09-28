@@ -57,7 +57,13 @@
 # print( "your city is", city)
 
 # Take two numbers from the user and print their sum.
-a = int(input("enter a  first number:"))
-b = int(input("enter a second number:"))
-sum = a+b
-print("your sum is" , sum )
+# a = int(input("enter a  first number:"))
+# b = int(input("enter a second number:"))
+# sum = a+b
+# print("your sum is" , sum )
+
+# Find the area of a rectangle (area = length × width).
+length = int(input("enter length:"))
+width = int(input("enter width:"))
+area = length*width
+print("the area is",area)
